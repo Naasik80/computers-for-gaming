@@ -1,0 +1,17 @@
+{
+    "Gaming": [
+        {
+
+        }
+    ],
+    
+    "users": [
+        {
+            "id": 1,
+            "username": "Naasik",
+            "email": "nrkamish@gmial.com",
+            "password": "put the password here"
+        }
+    ]
+
+}
